@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "297198177601",
+    "project_id": "calculatorcicd-e1af5",
+    "storage_bucket": "calculatorcicd-e1af5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297198177601:android:b4aaaf0f02f0128af8e5c0",
+        "android_client_info": {
+          "package_name": "com.nagem.calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297198177601-ebif8df6k4nitmsce51068ipmtupbn0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD0mf0OKnd0aWo_fCr0xetgxUqEvIn7bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297198177601-ebif8df6k4nitmsce51068ipmtupbn0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
